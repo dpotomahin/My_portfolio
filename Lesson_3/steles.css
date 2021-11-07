@@ -1,0 +1,34 @@
+table{
+    height: 1000px;
+    width: 1500px;
+    text-align: center;
+    border: 3px solid black;
+}
+h1 {
+    text-align: center;
+}
+.head{
+    background: linear-gradient(to left, brown, rgb(174, 191, 224));
+    color: rgb(0, 26, 255);
+}
+.name{
+    background-color: white;
+}
+td{
+    background-color: brown;
+}
+.power{
+    background-color: white;
+}
+.man{
+background-color: white;
+}
+.max{
+background-color: white;
+}
+.down{
+background: linear-gradient(to left, white,brown );
+}
+td{
+border: thin;
+}

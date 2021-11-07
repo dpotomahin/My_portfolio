@@ -1,0 +1,14 @@
+
+body {
+    background: #98e086;
+    color: #200191
+}
+
+img {
+    border-radius: 40px;
+}
+
+h2 {
+    border: 2px solid red;
+    padding: 10px;
+}
